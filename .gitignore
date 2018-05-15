@@ -1,1 +1,2 @@
-.gitignore这是什么文件呢
+#.gitignore这是什么文件呢
+#gigignorer是忽略文件,防止没用的文件反复提交
